@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml:5:5-13:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lino\.android\build-cache\08a32d8cd4e4817a009474358be922981a22f6bf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lino\.android\build-cache\d02a559cf42bd5b1dfed76103ba9fd1d21be4b52\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lino\.android\build-cache\a9476ea13be95f359c8df1237c76bd6c9b744e52\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lino\.android\build-cache\4f56730afe6a1cf397655ff0e8834bbd452b5ee4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lino\.android\build-cache\c69d9bda3075c63af314f883375415d91712fd35\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lino\.android\build-cache\3bec1701d60656ababc29b466dd6b7c9053dbbbc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lino\.android\build-cache\e8ba39b9256681c6c4e01d5cdaf82c015cc5e034\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lino\.android\build-cache\3c8bbee05d0feb1ed059132bb961b491dfbf424a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lino\.android\build-cache\cc87a91944ee4bc83d58b17e53f8b93b355cc210\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml:11:9-40
+uses-sdk
+INJECTED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lino\.android\build-cache\08a32d8cd4e4817a009474358be922981a22f6bf\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lino\.android\build-cache\d02a559cf42bd5b1dfed76103ba9fd1d21be4b52\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lino\.android\build-cache\a9476ea13be95f359c8df1237c76bd6c9b744e52\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lino\.android\build-cache\4f56730afe6a1cf397655ff0e8834bbd452b5ee4\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lino\.android\build-cache\c69d9bda3075c63af314f883375415d91712fd35\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lino\.android\build-cache\3bec1701d60656ababc29b466dd6b7c9053dbbbc\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lino\.android\build-cache\e8ba39b9256681c6c4e01d5cdaf82c015cc5e034\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lino\.android\build-cache\3c8bbee05d0feb1ed059132bb961b491dfbf424a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lino\.android\build-cache\cc87a91944ee4bc83d58b17e53f8b93b355cc210\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lino\.android\build-cache\08a32d8cd4e4817a009474358be922981a22f6bf\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lino\AndroidStudioProjects\AlikeIs\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lino\.android\build-cache\08a32d8cd4e4817a009474358be922981a22f6bf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lino\.android\build-cache\d02a559cf42bd5b1dfed76103ba9fd1d21be4b52\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lino\.android\build-cache\a9476ea13be95f359c8df1237c76bd6c9b744e52\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lino\.android\build-cache\4f56730afe6a1cf397655ff0e8834bbd452b5ee4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lino\.android\build-cache\c69d9bda3075c63af314f883375415d91712fd35\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lino\.android\build-cache\3bec1701d60656ababc29b466dd6b7c9053dbbbc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lino\.android\build-cache\e8ba39b9256681c6c4e01d5cdaf82c015cc5e034\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lino\.android\build-cache\3c8bbee05d0feb1ed059132bb961b491dfbf424a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lino\.android\build-cache\cc87a91944ee4bc83d58b17e53f8b93b355cc210\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lino\.android\build-cache\08a32d8cd4e4817a009474358be922981a22f6bf\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lino\.android\build-cache\08a32d8cd4e4817a009474358be922981a22f6bf\output\AndroidManifest.xml:26:9-47
